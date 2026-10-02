@@ -25,7 +25,7 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,python,django,flask,postgres,prisma,docker,githubactions,gcp,nginx,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,docker,githubactions,gcp,git,nodejs,express,prisma,js,ts&perline=7" />
 </p>
 
 **Also working with:** PostGIS · Zod · JWT / RBAC · GCP Cloud Logging · Gunicorn
@@ -36,7 +36,7 @@
 
 | Area | What it looks like |
 |---|---|
-| **Backend architecture** | Schema-driven, multi-tenant Node.js / TypeScript services on PostgreSQL with Prisma |
+| **Backend architecture** | Schema-driven, multi-tenant services in Python / Django and Node.js / TypeScript on PostgreSQL |
 | **Geospatial** | PostGIS queries, table partitioning, proximity search, route optimization |
 | **DevOps** | Dockerized apps, multi-environment GitHub Actions pipelines, GCP VMs |
 | **Security** | JWT auth, role-based access, input validation, rate limiting, secure headers |
