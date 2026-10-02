@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anant 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F3A5F&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+multi-tenant+geospatial+platforms;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+GCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F3A5F&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+multi-tenant+geospatial+platforms;Python+%7C+Django+%7C+PostgreSQL+%7C+GCP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,19 +40,6 @@
 | **Geospatial** | PostGIS queries, table partitioning, proximity search, route optimization |
 | **DevOps** | Dockerized apps, multi-environment GitHub Actions pipelines, GCP VMs |
 | **Security** | JWT auth, role-based access, input validation, rate limiting, secure headers |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnantSTEEL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantSTEEL&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantSTEEL&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
